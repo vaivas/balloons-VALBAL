@@ -6,8 +6,6 @@
   Aria Tedjarati | atedjarati@stanford.edu
   Joan Creus-Costa | jcreus@stanford.edu
 
-  ***
-
   File: Avionics.cpp
   --------------------------
   Implementation of Avionics.h
